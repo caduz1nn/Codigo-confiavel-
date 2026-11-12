@@ -5,4 +5,4 @@ function senhaValida(senha) {
   );
 }
 
-module.exports = { senhaValida };
+module.exports = senhaValida;
