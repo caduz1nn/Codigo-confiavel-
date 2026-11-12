@@ -11,3 +11,4 @@ describe("senhaValida", () => {
     expect(senhaValida("abcdefgh")).toBe(false);
   });
 });
+//test made by cadu
