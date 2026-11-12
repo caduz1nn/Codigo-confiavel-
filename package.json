@@ -1,0 +1,25 @@
+{
+  "name": "codigo-confiavel-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caduz1nn/Codigo-confiavel-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/caduz1nn/Codigo-confiavel-/issues"
+  },
+  "homepage": "https://github.com/caduz1nn/Codigo-confiavel-#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
