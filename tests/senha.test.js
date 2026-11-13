@@ -12,3 +12,4 @@ describe("senhaValida", () => {
   });
 });
 //test made by cadu
+.
